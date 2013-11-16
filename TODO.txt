@@ -1,0 +1,6 @@
+Tests
+=====
+
+1. Just use @Category
+2. Use in combination.
+3. Show example in pom.xml

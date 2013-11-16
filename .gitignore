@@ -4,3 +4,23 @@
 *.jar
 *.war
 *.ear
+
+# idea project settings #
+*.iml
+*.ipr
+*.iws
+.idea/*
+.idea
+
+# root of compiled classes #
+target/**/*
+target/**
+
+# the local maven repository #
+mvn-local-repo/**/*
+release.properties
+/.classpath
+/.project
+/.settings/org.eclipse.core.resources.prefs
+/.settings/org.eclipse.jdt.core.prefs
+/.settings/org.eclipse.m2e.core.prefs
